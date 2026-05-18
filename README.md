@@ -6,7 +6,7 @@ src="https://media.discordapp.net/attachments/1074476656212852836/13608031686650
   
 $\color{blue}\text{artcred @teilzeitveck}$
   
-$\color{blue}\text{0h t0 be a cl0wn!!!-}$
+$\color{blue}\text{0h t0 be a cl0wn!!!}$
   <!--
 **luckilyew/luckilyew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
